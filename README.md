@@ -62,3 +62,5 @@ The main function is where everything comes together. Here’s what it does:
 7.Saving the Data: Finally, it saves the transformed data to the specified output file.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/17024e24-dc8d-404c-893a-dba0ab16e596)
